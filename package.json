@@ -1,11 +1,11 @@
 {
-  "name": "react-native-privacy-snapshot",
+  "name": "@olono/react-native-privacy-snapshot",
   "version": "1.0.1",
   "description": "Obscure passwords and other sensitive personal information when a react-native app transitions to the background",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kayla-tech/react-native-privacy-snapshot.git"
+    "url": "git@github.com:olono/react-native-privacy-snapshot.git"
   },
   "keywords": [
     "react-native",
