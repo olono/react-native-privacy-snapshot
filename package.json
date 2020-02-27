@@ -1,5 +1,5 @@
 {
-  "name": "@olono/olono-react-native-privacy-snapshot",
+  "name": "@olono/react-native-privacy-snapshot",
   "version": "1.0.1",
   "description": "Obscure passwords and other sensitive personal information when a react-native app transitions to the background",
   "main": "index.js",
